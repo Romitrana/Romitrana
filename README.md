@@ -2,7 +2,7 @@
 I like to introduce myself as a Web Developer. I see myself as someone who can take on any challenge that is presented to me and find a way to overcome it. I am always looking for ways to improve my skills and learn new technologies.
 
 
-## 🌐 Socials:
+## 🌐 Connect & Code:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/romit.rana.10)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rana__romit36/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romit-rana/)
